@@ -75,8 +75,6 @@ def display_board(board):
     print(board[1]+'|'+board[2]+'|'+board[3])
 
 
-test_board = ['#','1','2','3','4','5','6','7','8','9']
-
 #WHILE LOOP TO KEEP RUNNING THE GAME
 print('Welcome to Tic Tac Toe')
 
